@@ -1,8 +1,3 @@
-"""
-
-@author: Magnus Schmid
-"""
-
 adressen = [
     "167.43.59.134",
     "164.59.134.57",
